@@ -1,8 +1,9 @@
 {
   "expo": {
     "name": "wallet_ui",
-    "slug": "wallet_ui",
+    "slug": "DIGITALWALLETUI",
     "version": "1.0.0",
+    "owner": "automatonangle",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -27,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
