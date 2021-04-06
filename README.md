@@ -1,4 +1,8 @@
-# A Wallet UI (Barcode and QRCODE)
+### A Wallet UI (Barcode and QRCODE)
+
+1. npm install
+2. run expo start or expo start --android or expo start --ios
+
 
 !['Registration Screen'](https://user-images.githubusercontent.com/46001539/113655078-13b53880-9691-11eb-8b09-dd3769564598.png?raw=true "Registration Screen")
 
