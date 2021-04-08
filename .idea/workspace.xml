@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25d6dfc2-f737-4370-b861-f6d69709197a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/wallet_ui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Navigation.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/icons.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/images.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/constants/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/navigation/Tabs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react-native.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/Home.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/Scan.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/SignUp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/Verify.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screens/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -62,8 +42,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+            <state relative-caret-position="84">
+              <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -217,7 +197,7 @@
       <updated>1617453579888</updated>
       <workItem from="1617453671660" duration="41400000" />
       <workItem from="1617575624008" duration="4141000" />
-      <workItem from="1617663925717" duration="14422000" />
+      <workItem from="1617663925717" duration="15443000" />
     </task>
     <task id="LOCAL-00001" summary="setup structure completed">
       <created>1617455336732</created>
@@ -230,10 +210,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="59963000" />
+    <option name="totallyTimeSpent" value="60984000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12629071" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -250,7 +231,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32928944" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3277311" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3277311" />
       <window_info anchor="bottom" id="RNConsole" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -481,8 +462,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        <state relative-caret-position="84">
+          <caret line="4" column="16" lean-forward="true" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="36" />
         </state>
       </provider>
     </entry>
